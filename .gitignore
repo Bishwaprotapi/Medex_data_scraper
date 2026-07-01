@@ -1,0 +1,17 @@
+﻿__pycache__/
+*.pyc
+.venv/
+.idea/
+.uc_profile/
+.env
+*.db
+*.sqlite
+*.sqlite3
+*.csv
+*.zip
+*.html
+*.json
+!requirements.txt
+dist/
+build/
+*.egg-info/
